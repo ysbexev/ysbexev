@@ -8,7 +8,7 @@
 
 ---
 
-## 🧊 Hello, I am YARCHE! ❄️
+## 🧊 Hello, I am YARCHE! 🧊
 
 I am a Junior Data Analyst at Sibintek Soft. Data is my inspiration: I uncover patterns, build hypotheses, and create meaningful insights. Passionate about SQL, Python, and data analysis. Aiming to master Data Science, Machine Learning, and AI at a professional level.
 
@@ -16,7 +16,7 @@ I am a Junior Data Analyst at Sibintek Soft. Data is my inspiration: I uncover p
 
 ---
 
-## ❄️ Tech Stack & Skills:
+## ❄️ Tech Stack & Skills ❄️
 
 🔹 Languages: Python, SQL  
 🔹 Learning Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
@@ -25,32 +25,10 @@ I am a Junior Data Analyst at Sibintek Soft. Data is my inspiration: I uncover p
 🔹 Analysis Methods: Statistics, Correlation Analysis, Machine Learning  
 🔹 BI Tools: Visiology, Tableau
 
+---
 
-## ❄️ Icy Heart ❄️
 
-
-<p align="center">
-  <svg width="200" height="200" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <!-- Определяем фильтр с анимированным эффектом drop-shadow -->
-      <filter id="burnFilter">
-        <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#00ffff">
-          <animate attributeName="stdDeviation" values="5;15;5" dur="4s" repeatCount="indefinite"/>
-          <animate attributeName="flood-color" values="#00ffff;#ff4500;#00ffff" dur="4s" repeatCount="indefinite"/>
-        </feDropShadow>
-      </filter>
-    </defs>
-    <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5
-             2 5.42 4.42 3 7.5 3c1.74 0 3.41 0.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3
-             19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" 
-          filter="url(#burnFilter)" fill="#ff0000">
-      <!-- Анимация изменения цвета заливки -->
-      <animate attributeName="fill" values="#ff0000;#ff6347;#ff0000" dur="4s" repeatCount="indefinite" />
-    </path>
-  </svg>
-</p>
-
-## 📫 Connect with Me:
+## 🧊 Connect with Me 🧊
 
 📧 Email: ysbaev@mail.ru  
 📱 Telegram: @yaaarcheee 
