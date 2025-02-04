@@ -37,6 +37,7 @@ I am a Junior Data Analyst at Sibintek Soft. Data is my inspiration: I uncover p
 | BI & Visualization   | <span style="color:#00BFFF">██████ 70%</span>         |
 ---
 
+
 ## 🧊 Connect with Me 🧊
 
 📧 Email: ysbaev@mail.ru  
