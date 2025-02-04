@@ -27,7 +27,6 @@ I am a Junior Data Analyst at Sibintek Soft. Data is my inspiration: I uncover p
 
 ---
 
-
 ## 🧊 Connect with Me 🧊
 
 📧 Email: ysbaev@mail.ru  
